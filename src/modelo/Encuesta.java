@@ -3,7 +3,7 @@ package modelo;
 import java.util.ArrayList;
 
 public class Encuesta {
-	
+	// example
 	private String titulo;
 	private ArrayList<Integer> listaVotaciones;
 	private float promedio;
